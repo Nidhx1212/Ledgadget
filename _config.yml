@@ -8,7 +8,7 @@ theme: jekyll-theme-merlot
       <body> 
          "Technology is the sum of techniques, skills, methods, and processes used in the production of goods or services or in the accomplishment of objectives, such as scientific investigation. |The simplest form of technology is the development and use of basic tools. |Technology can be most broadly defined as the entities, both material and immaterial created by the application of mental and physical effort in order to achieve some value. |Hence, Technicism is the belief in the utility of technology for improving human societies."
          <style> 
-            background-color: light pink; 
+            background-color: pink; 
             color: blue;
             text-align: left;
          </style>
