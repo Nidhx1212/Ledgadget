@@ -1,7 +1,9 @@
 theme: jekyll-theme-merlot
-   <html>
-   <head> 
-   <title>Technology</title>
+<html> 
+   <title>
+      Technology
+   </title>
+   
    <body> 
       <p> 
          Technology is the sum of techniques, skills, methods, and processes used in the production of goods or services or in the accomplishment of objectives, such as scientific investigation. 
@@ -12,13 +14,12 @@ theme: jekyll-theme-merlot
       <br><br>
          Hence, Technicism is the belief in the utility of technology for improving human societies. 
       </p>
-   <style> 
-   BODY {
-      background-color:light pink; 
-      color:blue;
-      text-align:left;
-}
-   </style>
+      <style> 
+         BODY {
+            background-color:light pink; 
+            color:blue;
+            text-align:left;
+            }
+      </style>
    </body>
-   </head>
 </html>
